@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lucas Cardoso!
+# 👋 Olá Mundo, eu sou o Lucas!
 
 💻 **Desenvolvedor Python e Web** com foco em **automação, APIs e análise de dados**.  
 Sou apaixonado por tecnologia e adoro transformar ideias em soluções práticas e inteligentes.  

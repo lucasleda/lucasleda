@@ -47,7 +47,6 @@ Site interativo em HTML, CSS e JS com consumo de API pública e loja temática d
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasleda&show_icons=true&theme=radical" alt="lucasleda stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasleda&layout=compact&theme=radical" height="165"/>
 </p>
 

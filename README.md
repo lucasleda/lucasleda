@@ -52,7 +52,7 @@ Site interativo em HTML, CSS e JS com consumo de API pública e loja temática d
 
 ## 📫 Contato
 
-📧 **lucasleda.dev@gmail.com**  
+📧 **weidner.lucas@gmail.com**  
 🌐 [LinkedIn](https://www.linkedin.com/in/lucas-cardoso-weidner-871165205/)  
 🐙 [GitHub](https://github.com/lucasleda)
 

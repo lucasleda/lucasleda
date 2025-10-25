@@ -5,11 +5,11 @@ Gosto de  tecnologia e gosto de transformar ideias em soluções práticas.
 
 ---
 
-## 🚀 Sobre mim
+## 🤖 Sobre mim
 - 🎯 Atualmente desenvolvendo projetos em **python & automação N8n**
 - 🧠 Interesse em **dados, back-end e integrações entre sistemas**
 - 🧩 Criador dos projetos **AutoManager**, **Finance-DataHub** e **Breaking Bad Fan Site**
-      com **ETL, Pandas, SQLite e envio automatizado de relatórios**
+  👓  **ETL, Pandas, SQLite e envio automatizado de relatórios**
 - 🎓 Estudando e buscando melhorar minhas habilidades
 
 ---

@@ -1,12 +1,12 @@
 # 👋 Olá Mundo, eu sou o Lucas!
 
-💻 **Desenvolvedor Python e Web** com foco em **automação, APIs e análise de dados**.  
-Sou apaixonado por tecnologia e adoro transformar ideias em soluções práticas e inteligentes.  
+💻 **Desenvolvedor Python e Web** estudando **automação, APIs e análise de dados**.  
+Gosto de  tecnologia e gosto de transformar ideias em soluções práticas.
 
 ---
 
 ## 🚀 Sobre mim
-- 🎯 Atualmente desenvolvendo projetos em **automação com Python**
+- 🎯 Atualmente desenvolvendo projetos em **python automação N8n**
 - 🧠 Interesse em **dados, back-end e integrações entre sistemas**
 - 🧩 Criador dos projetos **AutoManager**, **Finance-DataHub** e **Breaking Bad Fan Site**
 - 📊 Experiência com **ETL, Pandas, SQLite e envio automatizado de relatórios**

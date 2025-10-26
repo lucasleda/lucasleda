@@ -30,7 +30,7 @@ Gosto de  tecnologia e gosto de transformar ideias em soluções práticas.
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Projetos 
 
 ### 🧠 [Finance-DataHub](https://github.com/lucasleda/Finance-DataHub)
 Pipeline de dados financeiros com a **Brasil API**, realizando extração, tratamento e armazenamento em SQLite.

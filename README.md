@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas!
 
-💻 **Desenvolvedor Python e Web** estudando **automação, APIs e análise de dados**.  
+💻 **Desenvolvedor Python e Web** estudando **Cursando Análise e Desenvolvimento de Sistemas-Uniasselvi**.  
 Gosto de  tecnologia e gosto de transformar ideias em soluções práticas.
 
 ---

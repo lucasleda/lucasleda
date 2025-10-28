@@ -1,4 +1,4 @@
-# 👋 Olá Mundo, eu sou o Lucas!
+# 👋 Olá, eu sou o Lucas!
 
 💻 **Desenvolvedor Python e Web** estudando **automação, APIs e análise de dados**.  
 Gosto de  tecnologia e gosto de transformar ideias em soluções práticas.

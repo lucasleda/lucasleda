@@ -5,7 +5,7 @@ Gosto de  tecnologia e gosto de transformar ideias em soluções práticas.
 
 ---
 
-- 🎯 Atualmente desenvolvendo projetos em **python & automação N8n**
+- 🎯 Atualmente desenvolvendo projetos em **Front-End**
 - 🧠 Interesse em **dados, back-end e integrações entre sistemas**
 - 🧩 Criador dos projetos **AutoManager**, **Finance-DataHub** e **Breaking Bad Fan Site**
 - 🧩 **ETL, Pandas, SQLite e envio automatizado de relatórios**

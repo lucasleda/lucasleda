@@ -1,60 +1,64 @@
-# 👋 Olá, eu sou o Lucas!
+👋 Olá, eu sou o Lucas!
 
-💻 **Desenvolvedor Python e Web** estudando **Cursando Análise e Desenvolvimento de Sistemas-Uniasselvi**.  
-Gosto de  tecnologia e gosto de transformar ideias em soluções práticas.
+💻 Desenvolvedor Python & Web | Suporte Técnico N1
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
----
+Profissional com perfil analítico e orientado à solução de problemas, unindo experiência prática em suporte técnico com desenvolvimento de soluções em Python e Web.
 
-- 🎯 Atualmente desenvolvendo projetos em **Front-End**
-- 🧠 Interesse em **dados, back-end e integrações entre sistemas**
-- 🧩 Criador dos projetos **AutoManager**, **Finance-DataHub** e **Breaking Bad Fan Site**
-- 🧩 **ETL, Pandas, SQLite e envio automatizado de relatórios**
-- 🎓 Estudando e buscando melhorar minhas habilidades
+🚀 Perfil Profissional
+🔍 Experiência em Suporte Técnico N1
+🧠 Forte habilidade em diagnóstico e resolução de problemas
+💬 Atendimento ao cliente via chat, telefone e e-mail
+📝 Registro, acompanhamento e gestão de chamados
+🔄 Escalonamento estruturado para N2/N3
+📄 Experiência com análise de XML de Nota Fiscal (ERP MyRP)
+⚙️ Criação de checklists e padronização de processos
+🚀 Perfil proativo, com foco em melhoria contínua e eficiência operacional
 
----
+💡 Diferencial: consigo entender o problema do usuário e transformar em solução técnica, seja via suporte ou desenvolvimento.
 
-## 🛠️ Tecnologias e Ferramentas
+🧩 Stack Técnica
+💻 Desenvolvimento
+Python (Automação, ETL, Scripts)
+HTML, CSS, JavaScript
+Flask (APIs e aplicações web)
+📊 Dados & Automação
+Pandas
+ETL (Extração, Transformação e Carga)
+Geração automatizada de relatórios
+Integração com APIs
+⚙️ Ferramentas
+Git & GitHub
+SQLite
+VS Code
+📂 Projetos em Destaque
+🧠 Finance-DataHub
 
-### 💻 Linguagens e Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+Pipeline de dados financeiros com coleta via API, tratamento com Pandas e armazenamento em SQLite.
+➡️ Foco em engenharia de dados e automação
 
-### ⚙️ Ferramentas e Banco de Dados
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+🤖 AutoManager
 
----
+Sistema de automação que processa relatórios, gera PDFs com gráficos e envia por e-mail.
+➡️ Foco em produtividade e automação de tarefas
 
-## 📂 Projetos 
+☣️ Breaking Bad Fan Site
 
-### 🧠 [Finance-DataHub](https://github.com/lucasleda/Finance-DataHub)
-Pipeline de dados financeiros com a **Brasil API**, realizando extração, tratamento e armazenamento em SQLite.
+Aplicação web interativa consumindo API pública e simulando e-commerce.
+➡️ Foco em front-end + integração com API
 
-### 🤖 [AutoManager](https://github.com/lucasleda/AutoManager)
-Automação em Python que lê relatórios, gera PDFs com gráficos e envia por e-mail automaticamente.
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasleda&layout=compact&theme=radical" height="165"/> </p>
+🎯 Objetivo
 
-### ☣️ [Breaking Bad Fan Site](https://github.com/lucasleda/BreakingBadFanSite)
-Site interativo em HTML, CSS e JS com consumo de API pública e loja temática da série.
+Busco oportunidades para atuar como:
 
----
+💻 Desenvolvedor Back-end / Python
+📊 Área de Dados / Automação
+🔧 Suporte Técnico com foco em evolução para Dev
+📫 Contato
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasleda&layout=compact&theme=radical" height="165"/>
-</p>
+📧 weidner.lucas@gmail.com
 
----
+🌐 LinkedIn
 
-## 📫 Contato
-
-📧 **weidner.lucas@gmail.com**  
-🌐 [LinkedIn](https://www.linkedin.com/in/lucas-cardoso-weidner-871165205/)  
-🐙 [GitHub](https://github.com/lucasleda)
-
----
-
-### 💬 “Transformando dados e código em soluções inteligentes.”
+🐙 GitHub

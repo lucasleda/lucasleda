@@ -6,8 +6,11 @@
 Profissional com perfil analítico e orientado à solução de problemas, unindo experiência prática em suporte técnico com desenvolvimento de soluções em Python e Web.
 
 🚀 Perfil Profissional
+
 🔍 Experiência em Suporte Técnico N1
+
 🧠 Forte habilidade em diagnóstico e resolução de problemas
+
 💬 Atendimento ao cliente via chat, telefone e e-mail
 📝 Registro, acompanhamento e gestão de chamados
 🔄 Escalonamento estruturado para N2/N3

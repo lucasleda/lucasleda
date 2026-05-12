@@ -5,35 +5,36 @@
 
 Profissional com perfil analítico e orientado à solução de problemas, unindo experiência prática em suporte técnico com desenvolvimento de soluções em Python e Web.
 
-🚀 Perfil Profissional
-
 🔍 Experiência em Suporte Técnico N1
 
 🧠 Forte habilidade em diagnóstico e resolução de problemas
 
-💬 Atendimento ao cliente via chat, telefone e e-mail
 📝 Registro, acompanhamento e gestão de chamados
+
 🔄 Escalonamento estruturado para N2/N3
-📄 Experiência com análise de XML de Nota Fiscal (ERP MyRP)
-⚙️ Criação de checklists e padronização de processos
+
 🚀 Perfil proativo, com foco em melhoria contínua e eficiência operacional
 
 💡 Diferencial: consigo entender o problema do usuário e transformar em solução técnica, seja via suporte ou desenvolvimento.
 
 🧩 Stack Técnica
+
 💻 Desenvolvimento
 Python (Automação, ETL, Scripts)
 HTML, CSS, JavaScript
 Flask (APIs e aplicações web)
+
 📊 Dados & Automação
 Pandas
 ETL (Extração, Transformação e Carga)
 Geração automatizada de relatórios
 Integração com APIs
+
 ⚙️ Ferramentas
 Git & GitHub
 SQLite
 VS Code
+
 📂 Projetos em Destaque
 🧠 Finance-DataHub
 
